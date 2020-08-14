@@ -5,8 +5,8 @@ export default class Header extends Component {
     return (
       <Fragment>
         <section id='header'>
-          <h1>recommendations</h1>
-          <h3>a list of content that I think is cool</h3>
+          <h1>The Laughing Coffin</h1>
+          <h3>A list of content for members of the guild!</h3>
         </section>
       </Fragment>
     );
