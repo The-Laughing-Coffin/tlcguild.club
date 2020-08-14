@@ -10,7 +10,7 @@ export default class Layout extends Component {
       <Fragment>
         <Head>
           <meta name='viewport' content='width=device-width, initial-scale=1' />
-          <title>dean's links</title>
+          <title>TLC</title>
           <link
             rel='stylesheet'
             type='text/css'
